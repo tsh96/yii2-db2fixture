@@ -1,0 +1,2 @@
+<?= "<?php\n" ?>
+return <?= var_export($data) ?>;
